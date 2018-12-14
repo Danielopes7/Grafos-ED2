@@ -1,0 +1,12 @@
+9
+q>>s
+s>>v
+w>>s
+w<<q
+q>>t
+t>>x
+x==z
+t>>y
+r>>y
+r>>u
+u>>y
